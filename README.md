@@ -1,7 +1,7 @@
 # FPGA_StopWatch
 [PL] Stoper na bazie układu FPGA Artix-7 [EN] Stopwatch based on Artix-7 FPGA matrix.
 
-#Zasada działania / Working principle
+# Zasada działania / Working principle
 [PL] Lista plików:
 iup7.xdc - plik constraints do płytki ewaluacyjnej Nexys A7
 display.vhdl - implementacja wyświetlacza 4-cyfrowego z wejściem równległym 32 bit, zewnętrznym zegarem i mechanizmem resetu
